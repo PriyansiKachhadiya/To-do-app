@@ -1,0 +1,20 @@
+body{
+  background-color: #443d8bf2;
+}
+h1{
+ color: #17153B; 
+}
+input{
+  background-color: #2e236c95;
+  color:   #C8ACD6;
+  font-weight: 400;
+
+}
+input::placeholder{
+  color:  #C8ACD6;
+  font-weight: 400;
+}
+input:focus-visible{
+  outline: none;
+  border: none;
+}
